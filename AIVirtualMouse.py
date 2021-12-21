@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import HandTrackingModule as htm
 import mediapipe as mp
 import time
 import autopy
